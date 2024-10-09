@@ -18,4 +18,4 @@
 
  <h2>Preview:</h2>
 
-![](amazon.mp4)
+![](image.gif)
